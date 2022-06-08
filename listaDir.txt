@@ -1,2 +1,5 @@
+## Esses sao os arquivos existentes no diretorio ProjetoDIO1
+### Gerados via cat ls > listaDir.txt
+
 README.md
 listaDir.txt
